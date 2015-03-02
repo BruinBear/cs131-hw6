@@ -1,3 +1,316 @@
-DEBUG:root:Server (Alford) finished initializing
-DEBUG:root:Server (Alford) is stopped.
-DEBUG:root:Server (Alford) finished initializing
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedIAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1400694645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): New client connected. Current Number of clients: 3
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400694645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400694645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400694645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400694645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 2
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT bird.cs.ucla.edu +34.068930-118.445127 1400694645.392014450
+DEBUG:root:(Alford): Flood Received:AT bird.cs.ucla.edu +34.068930-118.445127 1400694645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: bird.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT bird.cs.ucla.edu +34.068930-118.445127 1400694645.392014450
+DEBUG:root:(Alford): Flood Received:AT bird.cs.ucla.edu +34.068930-118.445127 1400694645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: bird.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedIAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedWHATSAT kiwi.cs.ucla.edu 10 5
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedIAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): New client connected. Current Number of clients: 3
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedWHATSAT kiwi.cs.ucla.edu 10 5
+DEBUG:root:(Alford): ReceivedWHATSAT kiwi.cs.ucla.edu 10 5
+DEBUG:root:(Alford): ReceivedWHATSAT kiwi.cs.ucla.edu 10 5
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedIAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): New client connected. Current Number of clients: 3
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedWHATSAT kiwi.cs.ucla.edu 10 5
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedIAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedWHATSAT kiwi.cs.ucla.edu 10 5
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedWHATSAT kiwi.cs.ucla.edu 10 5
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): ReceivedAT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT kiwi.cs.ucla.edu +34.068930-118.445127 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24460527.6043 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24460527.6043 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24460527.6043 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24460527.6043 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT Bolden +24460886.3059 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24460886.3059 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): ReceivedAT Bolden +24460886.3059 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24460886.3059 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461097.2923 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461097.2923 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461097.2923 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461097.2923 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461159.2343 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461159.2343 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461159.2343 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461159.2343 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT Bolden +24461219.8613 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461219.8613 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): ReceivedAT Bolden +24461219.8613 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461219.8613 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461367.8692 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461367.8692 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461367.8692 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461367.8692 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461459.1361 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461459.1361 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461459.1361 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461459.1361 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461674.2133 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461674.2133 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461674.2133 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461674.2133 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT Bolden +24461759.2837 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461759.2837 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): ReceivedAT Bolden +24461759.2837 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461759.2837 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461923.3584 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461923.3584 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24461923.3584 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24461923.3584 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): New client connected. Current Number of clients: 2
+DEBUG:root:(Alford): ReceivedAT Bolden +24462051.5878 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24462051.5878 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): ReceivedAT Bolden +24462051.5878 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24462051.5878 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 1
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:Server (Alford) finished initializing on port 12001.
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24462209.6697 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24462209.6697 kiwi.cs.ucla.edu Parker 1400794645.392014450
+DEBUG:root:(Alford): New Client [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): Flooding to neighbour (Parker)
+DEBUG:root:(Alford): Flooding to neighbour (Powell)
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
+DEBUG:root:(Alford): New client connected. Current Number of clients: 1
+DEBUG:root:(Alford): ReceivedAT Bolden +24462209.6697 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Flood Received:AT Bolden +24462209.6697 kiwi.cs.ucla.edu Powell 1400794645.392014450
+DEBUG:root:(Alford): Existing Client Expired [IAMAT]: kiwi.cs.ucla.edu
+DEBUG:root:(Alford): A client disconnected. Current Number of clients: 0
