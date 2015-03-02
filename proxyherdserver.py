@@ -21,9 +21,9 @@ portsMap = {
 canTalkTo = {
 	"Alford" : ["Parker", "Powell"],
 	"Bolden" : ["Parker", "Powell"],
+    "Powell" : ["Alford", "Bolden"],
 	"Hamilton" : ["Parker"],
-	"Parker" : ["Alford", "Bolden", "Hamilton"],
-	"Powell" : ["Alford", "Bolden"]
+	"Parker" : ["Alford", "Bolden", "Hamilton"]
     }
 
 
@@ -165,8 +165,8 @@ class ProxyHerdProtocol(LineReceiver):
         _, _, _, _, c_loc, _ = self.factory.clients[c_id]['msg'].split(" ")
 
         c_loc = re.sub(r'[-]', ' -', c_loc)
-        c_loc = re.sub(r'[+]', ' +', c_loc).split()
-        pos_str = ",".join(c_loc)
+        c_loc = re.sub(r'[+]', ' +', c_loc)
+        pos_str = ",".join(c_loc.split())
 
         request_url = "{0}location={1}&radius={2}&sensor=false&key={3}".format(
 			placesUrl, pos_str, radius, placesKey)
@@ -193,7 +193,7 @@ class ProxyHerdServerFactory(Factory):
         self.clients = {}
         self.num_clients = 0
         logging.basicConfig(filename=name+'.log', level=logging.DEBUG)
-        self.debug("Server ({0}) finished initializing on port {1}.".format(name, self.port_number))
+        logging.debug("Server ({0}) finished initializing on port {1}.".format(name, self.port_number))
 
     # Set the protocol
     def buildProtocol(self, addr):
